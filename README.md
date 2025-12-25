@@ -61,7 +61,7 @@ This project demonstrates how different **pathfinding algorithms** work by visua
 ---
 
 ## 📂 Project Structure
-
+```
 3D-Maze-Solver/
 │
 ├── algorithms/                 # Pathfinding algorithms
@@ -86,7 +86,7 @@ This project demonstrates how different **pathfinding algorithms** work by visua
 ├── visualizer.py               # Maze & algorithm visualization
 ├── menu.py                     # Algorithm selection menu / UI
 ├── maze.py                     # 🚀 ENTRY POINT (main execution file)
-
+```
 
 ---
 
@@ -118,4 +118,5 @@ You are free to use, modify, and distribute it.
 📌 Aspiring Software Engineer | Python Developer | AI & Visualization Enthusiast
 
 🔗 LinkedIn: www.linkedin.com/in/muhammad-ahmad-23a3223a0 
+
 ⭐ If you like this project, don’t forget to star the repo!
